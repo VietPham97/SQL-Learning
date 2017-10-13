@@ -12,3 +12,4 @@ This is a demonstration on how I learn SQL programming on Lynda.com for database
 ![Alt text](/SQL-modify-data.png?raw=true "Optional Title")
 ## Delete a record from a table
 ![Alt text](/SQL-delete-data.png?raw=true "Optional Title")
+Thank you for following along.
