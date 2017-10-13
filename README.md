@@ -1,5 +1,5 @@
 # SQL-Learning
-This is how I learn SQL programming for database development.
+This is a demonstration on how I learn SQL programming on Lynda.com for database development.
 ## Request data from 2 tables and sort them
 ![Alt text](/SQL-order-by.png?raw=true "Optional Title")
 ## How join works
